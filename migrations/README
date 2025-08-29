@@ -1,1 +1,10 @@
-Generic single-database configuration.
+School Management CLI
+Overview
+This is a command-line interface (CLI) application for a school management system. It allows you to interact with a database to manage students, instructors, courses, and class enrollments. The application uses an Object-Relational Mapper (ORM) to handle all database operations, providing a clean and organized way to manage your school data.
+
+Features
+Student Management: Add, view, update, and delete students.
+
+Instructor Management: Add, view, update, and delete instructors.
+
+Course Management: Add, view, update, and delete courses.
